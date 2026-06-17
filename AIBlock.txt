@@ -1,7 +1,7 @@
 ! Title: AI Services Blocklist
 ! Description: Sperrt KI-Dienste und AI-Chatbots für AdGuard Home
-! Version: 1.1
-! Last updated: 2026-06-10
+! Version: 1.2
+! Last updated: 2026-06-17
 ! Syntax: AdGuard Home / AdGuard DNS
 
 ! ===== ChatGPT / OpenAI =====
@@ -272,3 +272,36 @@
 ! ===== AI SDK / API Endpunkte (zusätzliche Sicherheit) =====
 ||openrouter.ai^
 ||api.openrouter.ai^
+
+! ===== Brave Leo / Brave AI / Brave Search =====
+||search.brave.com^
+||leo.brave.com^
+||ai.brave.com^
+||ai-chat.bsg.brave.com^
+
+! ===== Google Labs / SGE =====
+! Hinweis: Google AI Overviews sind in google.com integriert – DNS-Blockierung NICHT möglich ohne Google gesamt zu sperren
+||labs.google^
+||labs.google.com^
+||searchlabs.google.com^
+
+! ===== DuckDuckGo AI Chat =====
+||ai.duckduckgo.com^
+||duckassist.duckduckgo.com^
+
+! ===== AI-First Search Engines =====
+||andisearch.com^
+||kagi.com^
+||exa.ai^
+||iask.ai^
+||consensus.app^
+||elicit.com^
+
+! ===== Search APIs für AI Agents =====
+||tavily.com^
+||api.tavily.com^
+||serpapi.com^
+||searchapi.io^
+||serper.dev^
+||jina.ai^
+||r.jina.ai^
