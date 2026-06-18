@@ -1,6 +1,6 @@
 ! Title: AI Services Blocklist
 ! Description: Sperrt KI-Dienste und AI-Chatbots für AdGuard Home
-! Version: 1.2
+! Version: 1.2.1
 ! Last updated: 2026-06-17
 ! Syntax: AdGuard Home / AdGuard DNS
 
@@ -273,8 +273,7 @@
 ||openrouter.ai^
 ||api.openrouter.ai^
 
-! ===== Brave Leo / Brave AI / Brave Search =====
-||search.brave.com^
+! ===== Brave Leo / Brave AI =====
 ||leo.brave.com^
 ||ai.brave.com^
 ||ai-chat.bsg.brave.com^
