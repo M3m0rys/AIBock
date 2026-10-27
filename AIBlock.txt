@@ -4,14 +4,14 @@
 ! Ursprungslizenz: CC0-1.0
 ! Keine automatische Synchronisation mit der Ursprungsliste.
 
-! Title: AI Blocklist
-! Description: Known generative-AI websites, apps, and API hosts, maintained by Nullgen. Excludes shared apexes (google.com, microsoft.com) that would break unrelated products.
-! Homepage: https://nullgen.ai
-! Source: https://github.com/nullgen-inc/ai-blocklist
+! Title: M3m0rys AIBlock
+! Description: Eigene DNS-Sperrliste fuer KI-Dienste und APIs. Integrierte Such-KI ist nur teilweise per DNS sperrbar.
+! Homepage: https://github.com/M3m0rys/AIBock
+! Source: https://raw.githubusercontent.com/M3m0rys/AIBock/main/AIBlock.txt
 ! License: CC0-1.0
-! Last modified: 2026-10-15
+! Last modified: 2026-10-27
 ! Expires: 1 day
-! Entries: 211
+! Entries: 220
 
 ||ab.chatgpt.com^
 ||aiplatform.googleapis.com^
@@ -235,3 +235,12 @@
 ! Google AI Overviews / AI Mode und Brave Search AI sind per DNS
 ! nicht gezielt von der normalen Suche trennbar. Keine Vollsperre
 ! von google.com oder search.brave.com in dieser Liste.
+
+! Weitere KI-Dienste, geprueft am 2026-10-27
+||t3.chat^
+||venice.ai^
+||abacus.ai^
+||deepai.org^
+||blackbox.ai^
+||replicate.com^
+||fal.ai^
