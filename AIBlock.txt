@@ -11,7 +11,7 @@
 ! License: CC0-1.0
 ! Last modified: 2026-10-27
 ! Expires: 1 day
-! Entries: 220
+! Entries: 272
 
 ||ab.chatgpt.com^
 ||aiplatform.googleapis.com^
@@ -244,3 +244,128 @@
 ||blackbox.ai^
 ||replicate.com^
 ||fal.ai^
+
+! Recherche-Erweiterung 2026-10-27
+! Quellen bestaetigen KI-Angebot und Domain, kein Ende-zu-Ende-Sperrtest.
+! Regeln sperren jeweils auch alle Subdomains und weitere Funktionen
+! desselben Angebots (z.B. Lernkarten, Literaturrecherche oder Videoeditor).
+
+! Chats, KI-Suche und Assistenten
+! Quelle: https://lumo.proton.me/
+||lumo.proton.me^
+! Quelle: https://hix.ai/
+||hix.ai^
+! Quelle: https://chathub.gg/
+||chathub.gg^
+! Quelle: https://chatboxai.app/en
+||chatboxai.app^
+! Quelle: https://andiai.com/
+||andiai.com^
+! Quelle: https://andiai.com/
+||andisearch.com^
+! Quelle: https://www.getmerlin.in/
+||getmerlin.in^
+! Quelle: https://www.chatgot.io/
+||chatgot.io^
+! Quelle: https://www.ninjatech.ai/
+||ninjatech.ai^
+! Quelle: https://www.chatbase.co/
+||chatbase.co^
+
+! Lernen, Schreiben und Recherche
+! Quelle: https://www.studyfetch.com/
+||studyfetch.com^
+! Quelle: https://studyable.app/
+||studyable.app^
+! Quelle: https://www.mindgrasp.ai/
+||mindgrasp.ai^
+! Quelle: https://notegpt.io/
+||notegpt.io^
+! Quelle: https://smodin.io/
+||smodin.io^
+! Quelle: https://julius.ai/
+||julius.ai^
+! Quelle: https://scispace.com/
+||scispace.com^
+! Quelle: https://scite.ai/
+||scite.ai^
+! Quelle: https://www.magicschool.ai/
+||magicschool.ai^
+! Quelle: https://telli.schule/faq/
+||telli.schule^
+
+! Bilder, Video und 3D
+! Quelle: https://creator.nightcafe.studio/
+||nightcafe.studio^
+! Quelle: https://tensor.art/
+||tensor.art^
+! Quelle: https://www.seaart.ai/
+||seaart.ai^
+! Quelle: https://getimg.ai/
+||getimg.ai^
+! Quelle: https://www.imagine.art/
+||imagine.art^
+! Quelle: https://invideo.io/
+||invideo.io^
+! Quelle: https://fliki.ai/
+||fliki.ai^
+! Quelle: https://www.vidnoz.com/
+||vidnoz.com^
+! Quelle: https://pictory.ai/
+||pictory.ai^
+! Quelle: https://www.d-id.com/
+||d-id.com^
+! Quelle: https://www.revid.ai/
+||revid.ai^
+! Quelle: https://www.meshy.ai/
+||meshy.ai^
+! Quelle: https://www.tripo3d.ai/
+||tripo3d.ai^
+
+! Stimmen und Musik
+! Quelle: https://murf.ai/
+||murf.ai^
+! Quelle: https://www.aiva.ai/
+||aiva.ai^
+! Quelle: https://soundraw.io/
+||soundraw.io^
+
+! Programmierassistenten
+! Quelle: https://www.trae.ai/
+||trae.ai^
+! Quelle: https://www.qodo.ai/
+||qodo.ai^
+! Quelle: https://www.openhands.dev/
+||openhands.dev^
+! Quelle: https://kiro.dev/
+||kiro.dev^
+! Quelle: https://tessl.io/
+||tessl.io^
+! Quelle: https://www.poolside.ai/
+||poolside.ai^
+
+! Modellplattformen und APIs
+! Quelle: https://inference-docs.cerebras.ai/quickstart
+||cerebras.ai^
+! Quelle: https://sambanova.ai/
+||sambanova.ai^
+! Quelle: https://novita.ai/
+||novita.ai^
+! Quelle: https://www.siliconflow.com/
+||siliconflow.com^
+! Quelle: https://www.baseten.co/
+||baseten.co^
+! Quelle: https://docs.together.ai/docs/quickstart
+||api.together.ai^
+
+! Charakter-Chats und Geschichten
+! Quelle: https://dreamgen.com/
+||dreamgen.com^
+! Quelle: https://backyard.ai/
+||backyard.ai^
+
+! Weitere bestaetigte Produkt- und API-Domains
+! Quelle: https://www.ninjatech.ai/company-facts
+||myninja.ai^
+! Quelle: https://developers.cloudflare.com/ai-gateway/usage/providers/fal/
+||fal.run^
